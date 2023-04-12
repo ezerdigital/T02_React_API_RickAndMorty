@@ -1,5 +1,5 @@
 import React from "react";
-import { SPECIES_LIST } from "../../constants/specieslist";
+import { SPECIES_LIST } from "../../constants/speciesList";
 
 const FilterBySpecies = ({ speciesText, setSpeciesText }) => {
   const handleSelectChange = ({ target }) => {
