@@ -6,7 +6,7 @@
 1. Conexion y consumo de APIs.
     * API seleccionada
       > API Rick and Morty
-    * Las llamadas pueden ser con **fetch** o **axios**.
+    * Llamadas.
       > Se uso *Axios*
     
 2. Patrones de diseño.
